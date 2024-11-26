@@ -5,9 +5,10 @@ As a final mini-homework, and in order to obtain your participation certificate,
 
 You can use whatever means you like to create such pull request, but the adviced workflow is as follows (check the workshop slides for more info):
 1. Clone the repository to your local computer using VScode and your GitHub user.
-2. Edit the `quotes.md` file, adding your own quote (any quote that you like will do).
-3. Create a new commit from VSCode, adding a commit message.
-4. Create and submit a pull request to the remote repository in GitHub, using your GitHub account (make sure your account has your name or your email, this is important so we can check who is who).
-5. We will accept the pull request and merge
+2. Create a new local branch with your name.
+3. Edit the `quotes.md` file, adding your own quote (any quote that you like will do).
+4. Create a new commit from VSCode, adding a commit message.
+5. Create and submit a pull request to the remote repository in GitHub, using your GitHub account (make sure your account has your name or your email, this is important so we can check who is who).
+6. We will accept the pull request and merge
 
 The deadline for this homework is on 2024-12-03. The repository will remain open until then, then we will switch it to private. We will add your user accounts to uc3m-aerospace afterward so you can continue to have access to it and the rest of repositories in this organization.
