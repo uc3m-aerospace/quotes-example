@@ -7,7 +7,11 @@
 > "People get wiser with age, but I am one of those who get weirder." - Brandon Sanderson (added by Iñaki Fernandez)
 
 
+> "With Great Power Comes Great Responsibility." - Uncle Ben (added by Raul Quiben)
+
+
 > "Be yourself; everyone else is already taken." - Oar Wilde (added by João Carvalho)
 
 > "This is one small step for a man, one giant leap for mankind." - Neil Armstrong (added by Jorge Simón)
+
 
